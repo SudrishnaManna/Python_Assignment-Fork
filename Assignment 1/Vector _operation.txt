@@ -1,2 +1,22 @@
-Assignment 1
-Write a menu driven program that inputs 2 vectors u and v of dimension 3 and perform the following operations: Vector addition, Scalar multiplication, Dot product, Cross product, Orthogonality, Parallelism check.
+Assignment 1: Vector Operations Program
+
+Write a menu-driven program that inputs two vectors u and v of dimension 3 and performs the following operations:
+
+Vector Addition
+Scalar Multiplication
+Dot Product
+Cross Product
+Orthogonality Check
+Parallelism Check
+Requirements:
+The program should accept the components of two 3-dimensional vectors from the user.
+Display a menu repeatedly until the user chooses to exit.
+Perform the selected operation and display the result clearly.
+Sample Menu:
+1. Vector Addition
+2. Scalar Multiplication
+3. Dot Product
+4. Cross Product
+5. Orthogonality Check
+6. Parallelism Check
+7. Exit
