@@ -1,0 +1,17 @@
+Assignment 2: [Function + List + Loop]
+Write a function that takes a list of numbers as input and returns a new list in which all adjacent duplicate elements are reduced to a single element.
+You may either:
+create and return a new list, or
+modify the original list directly.
+Example
+Input:
+[1, 2, 2, 3, 3, 3, 4, 2, 2]
+Output:
+[1, 2, 3, 4, 2]
+Explanation
+Consecutive duplicate numbers should appear only once.
+Non-adjacent duplicates should remain unchanged.
+For example:
+2, 2 → 2
+3, 3, 3 → 3
+The last 2, 2 → 2
