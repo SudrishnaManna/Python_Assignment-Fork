@@ -6,7 +6,8 @@ class Unique:
         for i in list:
             if i not in self.hash:
                 self.hash[i] = 1
-            self.hash[i] += 1
+            else:
+                self.hash[i] += 1
         return [key for key in self.hash.keys()]
 
 l = list(
